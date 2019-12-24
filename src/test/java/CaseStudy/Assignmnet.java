@@ -11,7 +11,7 @@ import cucumber.api.java.en.When;
 //@RunWith(Cucumber.class)
 
 
-public class CaseStudy1 {
+public class Assignmnet {
 	WebDriver driver;
 	
 	@Given("webdemoshop website is launched")
